@@ -118,7 +118,7 @@ The ERD shows the relationships between:
 
 ### ERD
 
-![Retail Store ERD](erd/retail_store_erd.png)
+![Retail Store ERD](erd/retail_stores_erd.png)
 
 The SVG version of the ERD is also available in the `erd` folder.
 
